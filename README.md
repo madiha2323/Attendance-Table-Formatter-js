@@ -11,7 +11,8 @@ This repository showcases a simple HTML file for visualizing an attendance sheet
 
 ## Preview
 
-![Attendance Table](screenshot.png)
+![Attendance Table]![image](https://github.com/madiha2323/Attendance-Table-Formatter-js/assets/109577656/a60d5560-c70a-442f-aa3d-fedc97992a9f)
+
 
 Feel free to modify the HTML and JavaScript code to tailor the table and formatting to your requirements.
 
